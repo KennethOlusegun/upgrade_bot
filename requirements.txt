@@ -6,4 +6,3 @@ oauth2client
 python-telegram-bot
 python-dotenv
 APScheduler
-selenium
