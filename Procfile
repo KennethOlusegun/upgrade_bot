@@ -1,1 +1,1 @@
-start: python viagem_bot.py
+start: python upgrade_pc.py
